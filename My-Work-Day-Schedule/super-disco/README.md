@@ -7,9 +7,8 @@ This Work day scheduler was made from javascript, css, and html. This applicatio
 [MyWorkDaySchedule]
 
 
+screenshot of deployed application![Screenshot 2022-09-01 170125](https://user-images.githubusercontent.com/109640836/188033761-dd367dc6-de7a-45ec-b18c-962381dd79c5.png)
 
-screenshot of deployed application
-(![]()
 
 # Resources
 
