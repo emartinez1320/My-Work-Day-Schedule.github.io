@@ -8,8 +8,9 @@ This Work day scheduler was made from javascript, css, and html. This applicatio
 
 
 
-screenshot of deployed application
-(![]()
+# Screenshot of deployed application
+![Screenshot 2022-09-01 170125](https://user-images.githubusercontent.com/109640836/188039312-fb2e3ce5-9671-4486-819b-278d2ba18883.png)
+
 
 # Resources
 
